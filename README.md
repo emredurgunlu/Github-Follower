@@ -1,2 +1,4 @@
 # Github-Follower
-JS - fetch api - search_filter
+JS - bootstrap - fetch api - search_filter
+
+https://emredurgunlu.github.io/Github-Follower/
